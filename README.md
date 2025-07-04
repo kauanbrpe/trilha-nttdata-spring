@@ -4,7 +4,7 @@
 Em engenharia de software, uma arquitetura de microsserviços é um padrão arquitetural que organiza uma aplicação em um conjunto de serviços independentes e com escopo limitado a uma única função comercial, chamados microserviços. (Fonte: Wikipedia)
 
 ### Como funciona o programa
-Como trabalho de conclusão do Bootcamp **"Java para Iniciantes"** da **DIO** em parceria com a empresa **NTT Data**, foi proposto um sistema de **Microsserviços** utilizando os princípios do **Spring Boot** e **Programação Orientada a Objetos** na linguagem **Java**. Os **microsserviços** são dois: **Produtos** e **Pedidos** interligados pelo banco de dados **H2 Data Base**.
+Como trabalho de conclusão do Bootcamp **"Java e IA para Iniciantes"** da **DIO** em parceria com a empresa **NTT Data**, foi proposto um sistema de **Microsserviços** utilizando os princípios do **Spring Boot** e **Programação Orientada a Objetos** na linguagem **Java**. Os **microsserviços** são dois: **Produtos** e **Pedidos** interligados pelo banco de dados **H2 Data Base**.
 
 ### Contexto do Negócio
 * **Microsserviço 1:** Permite cadastrar, listar, consultar produtos.
